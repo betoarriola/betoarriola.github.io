@@ -3,6 +3,8 @@
 
 This is my Home page! My name is Heriberto Arriola-Esqueda and I am a student at Cal State Fullerton.
 
+My major is Computer Science!
+
 ## Computer Science Projects
 
 My Github Page is http://github.com/betoarriola
