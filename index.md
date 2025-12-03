@@ -13,7 +13,7 @@ My Github Page is http://github.com/betoarriola
 
 * Lab 8
 
-Lab 8, Part 1, was one of my favorite labs because of its content. I enjoy watching and discussing the Olympics, so the fact that there is an Olympics-based coding challenge really got my interest. I liked that the coding made us act like or pretend we were one of the judges who grade these incredible athletes for their country. What also surprised me was that I had no idea skating was an Olympic sport. This lab taught us various way to use loops for our code. I definitely learned something new from this lab.
+Lab 8, Part 1, was one of my favorite labs because of its content. I enjoy watching and discussing the Olympics, so the fact that there is an Olympics-based coding challenge really got my interest. I liked that the coding made us act like or pretend we were one of the judges who grade these incredible athletes for their country. What also surprised me was that I had no idea skating was an Olympic sport. This lab taught us various ways to use loops for our code. I definitely learned something new from this lab.
 
 * Lab 5
 
